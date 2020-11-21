@@ -1,1 +1,3 @@
 var d = 40
+d++
+console.log(d)
